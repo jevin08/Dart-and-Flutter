@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'dart:convert';
 
-import 'package:lab7/world_time.dart';
+import 'package:lab10_2/world_time.dart';
 void main() => runApp(MaterialApp(
 // home: Home(),
 // instead of making home: property to make any page to initialize at beginning...
